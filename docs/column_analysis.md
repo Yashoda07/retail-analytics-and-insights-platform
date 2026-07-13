@@ -1,4 +1,4 @@
-### Understand what each column tells us
+# Understand what each column tells us
 
 ## Sales Performance
 1. Sales
@@ -6,7 +6,7 @@
 3. Quantity
 4. Discount
 
-# These tell us:
+### These tell us:
 - Are we selling enough?
 - Are we making money?
 - Are discounts hurting profits?
@@ -18,7 +18,7 @@
 2. Customer Name
 3. Segment
 
-# These tell us:
+### These tell us:
 - Who are our best customers?
 - Which customer segments generate most revenue?
 
@@ -30,7 +30,7 @@
 3. Category
 4. Sub-Category
 
-# These tell us:
+### These tell us:
 - Which products sell well?
 - Which products lose money?
 
@@ -42,7 +42,7 @@
 3. State
 4. City
 
-# These tell us:
+### These tell us:
 - Which locations perform best?
 - Which locations need attention?
 
@@ -53,7 +53,7 @@
 2. Ship Date
 3. Ship Mode
 
-# These tell us:
+### These tell us:
 - Are deliveries fast?
 - Which shipping mode is used most?
 
