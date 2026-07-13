@@ -10,6 +10,8 @@ Build an end-to-end data analytics project demonstrating:
 - Dashboarding
 - Business Recommendations
 
+---
+
 # Target roles:
 
 - Data Analyst
