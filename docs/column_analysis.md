@@ -1,5 +1,7 @@
 # Understand what each column tells us
 
+##### all column names have been updated to snake_case for better analysis
+
 ## Sales Performance
 1. Sales
 2. Profit
