@@ -31,6 +31,8 @@
 
 ### added columns
 
+| Column Name     | Data Type    | Description                                                                                |
+| --------------- | ------------ | ------------------------------------------------------------------------------------------ |
 | `delivery_days` | `int64`      | Number of days taken to deliver the order (`ship_date - order_date`).                      |
 | `profit_margin` | `float64`    | Profit as a percentage of sales (`profit / sales * 100`).                                  |
 | `order_year`    | `int64`      | Year in which the order was placed.                                                        |
