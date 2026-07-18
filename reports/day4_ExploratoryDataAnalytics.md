@@ -9,19 +9,19 @@ This report summarizes the key findings obtained from the exploratory data analy
 ## Key Findings
 
 ### Highest Sales Category
-- **Category:** <Update Here>
-- **Sales:** <Update Here>
+- **Category:** <Technology>
+- **Sales:** <836154.0330>
 
 ### Highest Sales Sub-Category
-- **Sub-Category:** <Update Here>
-- **Sales:** <Update Here>
+- **Sub-Category:** <Phones>
+- **Sales:** <330007.0540>
 
 ### Top Revenue-Generating Products
 | Product | Sales |
 |---------|------:|
-| <Update> | <Update> |
-| <Update> | <Update> |
-| <Update> | <Update> |
+| <Phones> | <330007.0540> |
+| <Chairs> | <328449.1030> |
+| <Storage> | <223843.6080> |
 
 ### Sales Trend
 
@@ -35,18 +35,20 @@ This report summarizes the key findings obtained from the exploratory data analy
 ## Key Findings
 
 ### Most Profitable Category
-- **Category:** <Update Here>
-- **Profit:** <Update Here>
+- **Category:** <Technology>
+- **Profit:** <145454.9481>
 
-### Least Profitable / Loss-Making Category
-- **Category:** <Update Here>
-- **Profit:** <Update Here>
+### Least Profitable
+- **Category:** <Furniture>
+- **Profit:** <18451.2728>
 
 ### Most Profitable Sub-Category
-- **Sub-Category:** <Update Here>
+- **Sub-Category:** <Copiers>
+- **profit:** <55617.8249>
 
-### Loss-Making Sub-Category
-- **Sub-Category:** <Update Here>
+### Least Profitable Sub-Category
+- **Sub-Category:** <Tables>
+- **profit:** <-17725.4811>
 
 ### Top Profitable Products
 
