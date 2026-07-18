@@ -1,4 +1,4 @@
-# Define KPIs
+# Define KPIs (DONE, refer to data -> cleaned -> kpi_summary.csv)
 
 For this project our initial KPIs will be:
 
