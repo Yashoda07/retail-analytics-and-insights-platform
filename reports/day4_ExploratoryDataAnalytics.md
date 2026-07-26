@@ -19,9 +19,9 @@ This report summarizes the key findings obtained from the exploratory data analy
 ### Top Revenue-Generating Products
 | Product | Sales |
 |---------|------:|
-| <Phones> | <330007.0540> |
-| <Chairs> | <328449.1030> |
-| <Storage> | <223843.6080> |
+| <Update> | <Update> |
+| <Update> | <Update> |
+| <Update> | <Update> |
 
 ### Sales Trend
 
@@ -38,33 +38,31 @@ This report summarizes the key findings obtained from the exploratory data analy
 - **Category:** <Technology>
 - **Profit:** <145454.9481>
 
-### Least Profitable
-- **Category:** <Furniture>
-- **Profit:** <18451.2728>
+### Least Profitable / Loss-Making Category
+- **Category:** <Update Here>
+- **Profit:** <Update Here>
 
 ### Most Profitable Sub-Category
-- **Sub-Category:** <Copiers>
-- **profit:** <55617.8249>
+- **Sub-Category:** <Update Here>
 
-### Least Profitable Sub-Category
-- **Sub-Category:** <Tables>
-- **profit:** <-17725.4811>
+### Loss-Making Sub-Category
+- **Sub-Category:** <Update Here>
 
 ### Top Profitable Products
 
 | Product | Profit |
 |---------|-------:|
-| <Update> | <Update> |
-| <Update> | <Update> |
-| <Update> | <Update> |
+| <Copiers> | <55617.8249> |
+| <Phones> | <44515.7306> |
+| <Accessories> | <41936.6357> |
 
 ### Highest Loss-Making Products
 
 | Product | Loss |
 |---------|-----:|
-| <Update> | <Update> |
-| <Update> | <Update> |
-| <Update> | <Update> |
+| <Tables> | <-17725.4811> |
+| <Bookcases> | <-3472.5560> |
+| <Supplies> | <-1189.0995> |
 
 ---
 
@@ -73,7 +71,7 @@ This report summarizes the key findings obtained from the exploratory data analy
 ## Key Findings
 
 ### Highest Revenue Segment
-- <Update Here>
+- <Consumer>
 
 ### Highest Profit Segment
 - <Update Here>
