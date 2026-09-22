@@ -201,17 +201,17 @@ Focuses on operational and profitability-related insights:
 
 ## Dashboard Preview
 
-### Executive Overview
+### Executive Sales & Profitability Overview
 
-![Executive Overview](dashboard/screenshots/executive_overview.png)
+<img width="891" height="494" alt="image" src="https://github.com/user-attachments/assets/45458c5e-bafc-4ff7-82cc-116468961d36" />
 
 ### Product and Customer Insights
 
-![Product and Customer Insights](dashboard/screenshots/product_customer_insights.png)
+<img width="890" height="491" alt="image" src="https://github.com/user-attachments/assets/a3afa032-7ef1-42c1-99e1-9bc2b705d020" />
 
 ### Operations and Profitability
 
-![Operations and Profitability](dashboard/screenshots/operations_profitability.png)
+<img width="887" height="492" alt="image" src="https://github.com/user-attachments/assets/61e90487-926d-41d3-9a81-3a19ded8222d" />
 
 ---
 
